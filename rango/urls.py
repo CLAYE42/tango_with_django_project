@@ -14,7 +14,5 @@ urlpatterns = [
     path('restricted/', views.restricted, name='restricted'),
     path('register/', views.register, name='register'),
 
-
-
 ]
 
